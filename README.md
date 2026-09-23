@@ -18,9 +18,9 @@ A secure Express.js REST API providing statistical data feeds, user authenticati
 ---
 
 ## ✨ Key Features
-- ⚡ **Secure user authentication with bcrypt password hashing**: Secure user authentication with bcrypt password hashing
-- ⚡ **Prisma ORM data layer for high-performance relational queries**: Prisma ORM data layer for high-performance relational queries
-- ⚡ **CORS enabled with configurable security headers**: CORS enabled with configurable security headers
+- Secure user authentication with bcrypt password hashing
+- Prisma ORM data layer for high-performance relational queries
+- CORS enabled with configurable security headers
 
 ---
 
